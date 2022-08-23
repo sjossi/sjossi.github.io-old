@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# block for now, so it doesn't leak too early
+IDEAS.md
