@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome to here!"
+date:   2022-08-23 13:37:00 -0400
+categories: meta
+---
+
+I'm just starting this off, but I decided that I need to save all my little scripts
+and tools and configs that are lounging around my $HOME and share them. Many
+times there are solutions that were not readily available, so I'll try to
+highlight those. Other times it's just a collection of snippets from other
+places. I won't be able to trace everything back to where I found it, so the
+originality of all the bits and pieces can be blurry. I will be mindful of
+proprietary code though, and might have to leave out certain bits and pieces or
+refer to other sources.
