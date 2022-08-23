@@ -1,2 +1,2 @@
 # sjossi.github.io
-Small blogging platform to release all those pent up thoughts.
+Small website to share some cool things that otherwise disappear in my home folder
